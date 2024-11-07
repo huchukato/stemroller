@@ -36,5 +36,18 @@
         "to": "ThirdPartyApps"
       }
     ]
+  },
+  "linux": {
+    "target": [
+      "AppImage",
+      "deb"
+    ],
+    "category": "AudioVideo",
+    "extraFiles": [
+      {
+        "from": "linux-extra-files/ThirdPartyApps",
+        "to": "ThirdPartyApps"
+      }
+    ]
   }
 }
