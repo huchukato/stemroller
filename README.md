@@ -1,3 +1,6 @@
+
+![STEMROLLER](https://github.com/user-attachments/assets/89393fcc-5282-4927-8699-b7868568c76e)
+
 # stemroller-linuxbuild
 
 This repository contains the Linux build files for StemRoller, an application that allows you to isolate vocals, drums, bass, and other instrumental stems from any song with a single click. Due to GitHub's file size limitations, large files have been moved to external storage.
